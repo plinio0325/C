@@ -1,0 +1,7 @@
+#include <windows.h> 
+
+int main(int argc, LPTSTR argv[])
+{
+	
+	return 0;
+}
